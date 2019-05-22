@@ -1,0 +1,45 @@
+int I01OI=123, *I01O1, IOIO1;
+string *******II0IO, ****I0I0I, IOI01="hai girls";
+int main(){
+bool IO101;
+cin  >> I01OI;
+string II010 = "hey, im here to add some spam. Notice me!";
+string IO10I;
+int I0IOI=0;
+char IIO1O, II0I0, I0IO1, IIOIO;
+cout << IOIO1 << "HAI" << I01O1 << '\n';
+string I1010 = "hey, im here to add some spam. Notice me!";
+if (I01OI>=IOIO1){
+cout << I01O1 << endl;
+string I101O = "hey, im here to add some spam. Notice me!";
+} else {
+if (5>6){
+cout << "postavte zachot plz" << endl;
+string I10I0 = "hey, im here to add some spam. Notice me!";
+} else {
+for (int IOI0I=10;IOI0I<I01OI+15/20*(30-35);IOI0I+=1){
+cout << "nu pozhalusta" << endl;
+string IOIOI = "hey, im here to add some spam. Notice me!";
+}
+}
+}
+for (int I1OIO=0;I1OIO<I01OI;I1OIO+=1){
+int IO1OI, I10IO;
+cout << I10IO;
+string I1O10 = "hey, im here to add some spam. Notice me!";
+cout << IO1OI;
+string I1OI0 = "hey, im here to add some spam. Notice me!";
+}
+IIO1O=IIOIO;
+int I010I;
+IIO1O+=IIOIO;
+IIO1O|=IIOIO;
+IIO1O%=IIOIO;
+IIO1O&=IIOIO;
+IIO1O*=5-7/(3+4);
+IIO1O-=IIOIO;
+I01OI>=IOIO1;
+for (int I1OIO=0;;I1OIO+=1){
+}
+return 0;
+}
